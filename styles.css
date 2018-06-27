@@ -1,0 +1,41 @@
+/* add your CSS here */
+body{
+
+
+}
+
+.main{
+    width: 22.5%;
+    margin:auto;
+      border:1px solid grey;
+      box-shadow: 1px 1px solid grey;
+      font-size: 12.5px;
+      padding: 5px 10px;
+}
+P{
+  text-align: left;
+}
+p#desc{
+  font-style: italic;
+}
+
+ul{
+  list-style: none;
+  padding: 0;
+}
+
+ul li span{
+  font-weight: bold;
+}
+
+.main img{
+text-align: center;
+margin: auto;
+border:2px solid grey;
+}
+
+.info{
+  padding: 10px 15px;
+
+  border:1px solid grey;
+}
